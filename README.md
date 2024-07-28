@@ -102,25 +102,28 @@ The API is documented using Swagger. Once the server is running, you can access 
 
 Here are some screenshots to give you a visual overview of the InnoTune backend.
 
-<p align="center">
-  <img src="screenshots/Screenshot1.png" alt="Screenshot 1" width="200" style="margin: 10px;"/>
-  <img src="screenshots/Screenshot2.png" alt="Screenshot 2" width="200" style="margin: 10px;"/>
-  <img src="screenshots/Screenshot3.png" alt="Screenshot 3" width="200" style="margin: 10px;"/>
-  <img src="screenshots/Screenshot4.png" alt="Screenshot 4" width="200" style="margin: 10px;"/> 
-</p>
-<p align="center">
-  <img src="screenshots/Screenshot5.png" alt="Screenshot 5" width="200" style="margin: 10px;"/>
-  <img src="screenshots/Screenshot6.png" alt="Screenshot 6" width="200" style="margin: 10px;"/>
-  <img src="screenshots/Screenshot7.png" alt="Screenshot 7" width="200" style="margin: 10px;"/>
-  <img src="screenshots/Screenshot8.png" alt="Screenshot 8" width="200" style="margin: 10px;"/>
-</p>
-<p align="center">
-  <img src="screenshots/Screenshot9.png" alt="Screenshot 9" width="200" style="margin: 10px;"/>
-  <img src="screenshots/Screenshot10.png" alt="Screenshot 10" width="200" style="margin: 10px;"/>
-<!--   <img src="screenshots/Screenshot11.png" alt="Screenshot 11" width="200" style="margin: 10px;"/> -->
-  <img src="screenshots/Screenshot12.png" alt="Screenshot 12" width="200" style="margin: 10px;"/>
-  <img src="screenshots/Screenshot13.png" alt="Screenshot 13" width="200" style="margin: 10px;"/>
-</p>
+<div style="padding: 20px;">
+  <p align="center">
+    <img src="screenshots/Screenshot1.png" alt="Screenshot 1" width="200" style="margin: 10px;"/>
+    <img src="screenshots/Screenshot2.png" alt="Screenshot 2" width="200" style="margin: 10px;"/>
+    <img src="screenshots/Screenshot3.png" alt="Screenshot 3" width="200" style="margin: 10px;"/>
+    <img src="screenshots/Screenshot4.png" alt="Screenshot 4" width="200" style="margin: 10px;"/>
+  </p>
+  <p align="center">
+    <img src="screenshots/Screenshot5.png" alt="Screenshot 5" width="200" style="margin: 10px;"/>
+    <img src="screenshots/Screenshot6.png" alt="Screenshot 6" width="200" style="margin: 10px;"/>
+    <img src="screenshots/Screenshot7.png" alt="Screenshot 7" width="200" style="margin: 10px;"/>
+    <img src="screenshots/Screenshot8.png" alt="Screenshot 8" width="200" style="margin: 10px;"/>
+  </p>
+  <p align="center">
+    <img src="screenshots/Screenshot9.png" alt="Screenshot 9" width="200" style="margin: 10px;"/>
+    <img src="screenshots/Screenshot10.png" alt="Screenshot 10" width="200" style="margin: 10px;"/>
+    <!-- <img src="screenshots/Screenshot11.png" alt="Screenshot 11" width="200" style="margin: 10px;"/> -->
+    <img src="screenshots/Screenshot12.png" alt="Screenshot 12" width="200" style="margin: 10px;"/>
+    <img src="screenshots/Screenshot13.png" alt="Screenshot 13" width="200" style="margin: 10px;"/>
+  </p>
+</div>
+
 
 ## Frontend Link
 
