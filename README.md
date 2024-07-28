@@ -117,7 +117,7 @@ Here are some screenshots to give you a visual overview of the InnoTune backend.
       <img src="screenshots/Screenshot4.png" alt="Screenshot 4" width="200">
     </td>
   </tr>
-  <tr style="height: 30px;"></tr> <!-- Empty row for spacing -->
+  <tr style="height: 50px;"></tr> <!-- Empty row for spacing -->
   <tr>
     <td style="padding: 10px;">
       <img src="screenshots/Screenshot5.png" alt="Screenshot 5" width="200">
@@ -132,7 +132,7 @@ Here are some screenshots to give you a visual overview of the InnoTune backend.
       <img src="screenshots/Screenshot8.png" alt="Screenshot 8" width="200">
     </td>
   </tr>
-  <tr style="height: 30px;"></tr> <!-- Empty row for spacing -->
+  <tr style="height: 50px;"></tr> <!-- Empty row for spacing -->
   <tr>
     <td style="padding: 10px;">
       <img src="screenshots/Screenshot9.png" alt="Screenshot 9" width="200">
