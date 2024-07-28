@@ -102,7 +102,7 @@ The API is documented using Swagger. Once the server is running, you can access 
 
 Here are some screenshots to give you a visual overview of the InnoTune backend.
 
-<div style="padding: 50px;">
+<div style="background-color: rgba(255, 255, 255, 0.8); padding: 40px; border-radius: 10px;">
   <p align="center">
     <img src="screenshots/Screenshot1.png" alt="Screenshot 1" width="200" style="margin: 10px;"/>
     <img src="screenshots/Screenshot2.png" alt="Screenshot 2" width="200" style="margin: 10px;"/>
